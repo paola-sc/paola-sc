@@ -15,7 +15,7 @@
 <h3>🎨 I like to create digital art 🦄</h3>
 <h3>🍰 I love sweets! 🍓🍯🍫🍪</h3>
 <h3>🤓 Currently learning different front-end frameworks, and UI/UX ✍🏽</h3>
-<h3>🤝🏾 Looking to collaborate on interesting projects and connect with more devs 😊</h3>
+<!-- <h3>🤝🏾 Looking to collaborate on interesting projects and connect with more devs 😊</h3> -->
 
 <!-- <h2>📊 My Stats</h2>
 
