@@ -1,4 +1,4 @@
-![https://paola-codes.netlify.app/](https://github.com/paola-codes/paola-codes/blob/main/github-banner.png)
+![https://paola-codes.netlify.app/](https://github.com/paola-sc/paola-sc/blob/main/github-banner.png)
 
 <h1>👩‍💻 Hello</h1> 
 
